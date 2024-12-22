@@ -13,7 +13,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 // NO YANG MAU DI PAIRING
-global.nopairing = "6283191623439"
+global.nopairing = "6282116106224"
 
 //owmner v card
 global.ytname = "Youtube : HiraaZxD" //ur yt chanel name
